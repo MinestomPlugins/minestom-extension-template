@@ -1,3 +1,5 @@
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/MinestomPlugins/minestom-extension-template?style=flat-square">
+
 # minestom-extension-template
 
 use this project as a template<br>
